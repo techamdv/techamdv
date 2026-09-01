@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Arya%20Manudev%20Verma&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There,%20I'm%20Arya%20Manudev%20Verma&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlignY=52&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Backend+Developer+%40+ConsultIT+Technologies;Building+scalable+APIs+with+Node.js+%2B+TypeScript;Currently+working+on+EsimNow.Ai+%F0%9F%9A%80;Learning+DevOps+%7C+Always+shipping" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Backend+Developer+%40+ConnectingIT+Technologies;Building+scalable+APIs+with+Node.js+%2B+TypeScript;Currently+working+on+EsimNow.Ai+%F0%9F%9A%80;Learning+DevOps+%7C+Always+shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +36,7 @@ const arya: Developer = {
 ```
 
 - 🔭 I'm currently working on **[EsimNow.Ai](https://portal.esimnow.ai)**
-- 🏢 Backend Developer @ **ConsultIT Technologies** since Dec 2023
+- 🏢 Backend Developer @ **ConnectingIT Technologies** since Dec 2023
 - 🌱 I'm currently learning **DevOps**
 - 💬 Ask me about **TypeScript, Node.js, Express.js & PostgreSQL**
 - 📫 Reach me at **techamdv@gmail.com**
@@ -86,7 +88,7 @@ const arya: Developer = {
 <tr>
 <td width="100%">
 
-### Backend Developer — **ConsultIT Technologies**
+### Backend Developer — **ConnectingIT Technologies**
 📍 TechZone 7, Greater Noida &nbsp;•&nbsp; 🗓️ December 2023 – Present
 
 - 🚀 **Boosted API performance** by re-architecting Node.js & Express.js implementations with AI-assisted optimization
