@@ -37,7 +37,7 @@ const arya: Developer = {
   role: "Backend Developer",
   location: "Greater Noida, Uttar Pradesh, IN 🇮🇳",
   company: "ConnectingIT Technologies",
-  experience: "December 2023 – Present",
+  experience: "April 2024 – Present",
 
   currentlyBuilding: [
     "Credit Bricks – Society & Billing ERP",
@@ -139,7 +139,7 @@ const arya: Developer = {
 
 ### Backend Developer — ConnectingIT Technologies
 
-📍 TechZone 7, Greater Noida  •  🗓️ December 2023 – Present
+📍 TechZone 7, Greater Noida  •  🗓️ April 2024 – Present
 
 I work on backend systems across **ERP, PropTech, FinTech and Telecom**, focusing on scalable APIs, database architecture, financial workflows, multi-tenant systems and third-party integrations.
 
